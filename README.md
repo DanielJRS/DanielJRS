@@ -1,7 +1,7 @@
 Olá. Sou o Daniel Junior e você está no meu perfil!
 
-» 🎓 Análise e Desenvolvimento de Sistemas 2/3 💻🖤<br>
-» 📚 Estudando HTML5 | CSS3 | Javascript | PostgreSQL | Java
+» 🎓 Análise e Desenvolvimento de Sistemas 💻🖤<br>
+» 📚 Estudando HTML5 | CSS3 | Javascript | PostgreSQL | Java | Pentest
 
 » Entre em contato 📌 <br>
  📩 E-mail: daniel.junior137@hotmail.com
