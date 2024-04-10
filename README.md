@@ -1,10 +1,10 @@
 Olá.
 
 » 🎓 Análise e Desenvolvimento de Sistemas 💻🖤<br>
-» 📚 Estudando HTML5 | CSS3 | Javascript | PostgreSQL | Java | Pentest
+» 📚 HTML5 | CSS3 | Javascript | PostgreSQL | Java | Pentest
 
-» Entre em contato 📌 <br>
- 📩 E-mail: daniel.junior137@hotmail.com
+» E-mail 📌 <br>
+ 📩 daniel.junior137@hotmail.com
  
  ##
  
