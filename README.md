@@ -1,4 +1,4 @@
-Olá. Sou o Daniel Junior e você está no meu perfil!
+Olá.
 
 » 🎓 Análise e Desenvolvimento de Sistemas 💻🖤<br>
 » 📚 Estudando HTML5 | CSS3 | Javascript | PostgreSQL | Java | Pentest
