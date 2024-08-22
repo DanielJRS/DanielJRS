@@ -1,5 +1,3 @@
-Olá.
-
 » 🎓 Análise e Desenvolvimento de Sistemas 💻🖤<br>
 » 📚 HTML5 | CSS3 | Javascript | PostgreSQL | Java | Pentest
 
@@ -9,7 +7,7 @@ Olá.
  ##
  
 <div>
-  <a href="https://github.com/danieljrs">
+  <a href="https://github.com/DanielJRS">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danieljrs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljrs&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -30,4 +28,4 @@ Olá.
   <a href="https://www.linkedin.com/in/daniel-junior-990944200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- ![Snake animation](https://github.com/danieljrs/danieljrs/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DanielJRS/DanielJRS/blob/output/github-contribution-grid-snake.svg)
