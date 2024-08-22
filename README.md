@@ -8,8 +8,8 @@
  
 <div>
   <a href="https://github.com/DanielJRS">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DanielJRS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJRS&layout=compact&langs_count=7&theme=react"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DanielJRS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJRS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2786/2786969.png">
